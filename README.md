@@ -1,5 +1,5 @@
 # Three.js - Template - by yzc
-# https://yangzongchi.github.io/yzc-three-js-template/
+
 # yzc-three-js-template
 
 a complex project template for three.js
